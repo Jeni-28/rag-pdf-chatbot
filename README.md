@@ -69,3 +69,7 @@ The app will open in your browser. Paste your API key into the sidebar, upload a
 - Persist FAISS index to disk to avoid re-indexing on every session
 - Add conversational memory for follow-up questions
 - Show precise page-level citations
+
+## Author
+**Jenihelan M**
+Connect with me on [LinkedIn](https://www.linkedin.com/in/jenihelan-m/)
